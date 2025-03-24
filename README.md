@@ -14,7 +14,7 @@ I'm currently learning **React.js** and **Node.js**, expanding my skills in mode
 </p>
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aniket-bhojapure25/)  
 
 ## 📊 GitHub Stats  
 ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket25-11&show_icons=true&theme=radical&count_private=true)  
