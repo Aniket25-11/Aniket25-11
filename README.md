@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aniket!  
+# 👋 Hi, I'm Aniket Bhojapure!  
 
 I'm currently learning **React.js** and **Node.js**, expanding my skills in modern web development. Passionate about building dynamic and responsive web applications.  
 
