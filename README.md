@@ -20,7 +20,7 @@ I'm currently learning **React.js** and **Node.js**, expanding my skills in mode
 ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket25-11&show_icons=true&theme=radical&count_private=true)  
 
 ## 🔥 GitHub Streaks  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aniket25-11&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aniket25-11&theme=radical&count_private=true) 
 
 ## 📈 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket25-11&layout=compact&theme=radical)  
