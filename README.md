@@ -13,8 +13,7 @@ I'm currently learning **React.js** and **Node.js**, expanding my skills in mode
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </p>
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aniket-bhojapure25/)  
+--- 
 
 ## 📊 GitHub Stats  
 ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket25-11&show_icons=true&theme=radical&count_private=true)  
@@ -27,6 +26,11 @@ I'm currently learning **React.js** and **Node.js**, expanding my skills in mode
 
 ## 💡 Fun Fact  
 I love learning new web technologies and experimenting with creative projects! 😃  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aniket-bhojapure25/) 
 
 ---
 
