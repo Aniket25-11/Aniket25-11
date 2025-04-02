@@ -19,7 +19,8 @@ I'm currently learning **React.js** and **Node.js**, expanding my skills in mode
 ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket25-11&show_icons=true&theme=radical&count_private=true)  
 
 ## 🔥 GitHub Streaks  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aniket25-11&theme=radical&count_private=true) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aniket25-11&theme=radical&count_private=true&v=1)
+
 
 ## 📈 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket25-11&layout=compact&theme=radical)  
@@ -30,7 +31,8 @@ I love learning new web technologies and experimenting with creative projects! �
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aniket-bhojapure25/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniket-bhojapure25/)  
+
 
 ---
 
